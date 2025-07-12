@@ -11,4 +11,4 @@
 ## Links
 
 - [Website](https://miralys.xyz/)
-- [Discord](Soon...)
+- [Discord](https://discord.gg/ZvPfX4XuKJ)
