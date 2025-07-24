@@ -6,7 +6,7 @@
 
 ## About
 
-```Miralys is a french dev organization. Miralus is a big team represented by passionate people who love what they do. Miralys is the owner of Discordian, Ayden Discord Bot & more !```
+```Miralys is a french dev organization. Miralys is a big team represented by passionate people who love what they do. Miralys is the owner of Discordian, Ayden Discord Bot & more !```
 
 ## Links
 
