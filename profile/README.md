@@ -7,7 +7,7 @@
 	<p>
 		<a href="https://miralys.xyz/"><img src="https://img.shields.io/badge/Website-miralys.xyz-blue?style=for-the-badge&logo=google-chrome" alt="Website"/></a>
 		<a href="https://discord.gg/ZvPfX4XuKJ"><img src="https://img.shields.io/discord/1123307765599838309?color=5865F2&label=Discord&logo=discord&logoColor=white&style=for-the-badge" alt="Discord"/></a>
-		<a href="https://www.instagram.com/miralys_official/"><img src="https://img.shields.io/badge/Instagram-@miralys_official-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+		<a href="https://www.instagram.com/miralys_official/"><img src="https://img.shields.io/badge/Instagram-@miralys\_official-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 		<a href="https://x.com/miralysproject"><img src="https://img.shields.io/badge/X-@miralysproject-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/></a>
 		<img src="https://img.shields.io/badge/Team-Passionate%20Devs-orange?style=for-the-badge" alt="Team"/>
 	</p>
