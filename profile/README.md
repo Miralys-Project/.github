@@ -38,7 +38,7 @@
 
 <p align="center">
 	<a href="https://miralys.xyz/">🌍 Website</a> &nbsp;|&nbsp;
-	<a href="https://discord.gg/ZvPfX4XuKJ">💭 Discord</a> &nbsp;|&nbsp;
+	<a href="https://discord.gg/Wdc8ztTvG4">💭 Discord</a> &nbsp;|&nbsp;
 	<a href="https://www.instagram.com/miralys_official/">📸 Instagram</a> &nbsp;|&nbsp;
 	<a href="https://x.com/miralysproject">✖️ X</a>
 </p>
